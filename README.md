@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=110&section=header&text=WELCOME%20HI,%20I'm%20SONGIEE%20SEO&fontSize=50&fontColor=000000&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=110&section=header&text=WELCOME%20🌱HI,%20I'm%20SONGIEE%20SEO🌱🤭&fontSize=45&fontColor=000000&animation=scaleIn"/>
 </div>
